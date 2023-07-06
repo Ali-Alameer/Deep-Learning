@@ -1,7 +1,7 @@
 # Deep-Learning
 This repository is designed specifically for AI MSc students! This comprehensive collection of resources aims to provide a solid foundation in deep learning concepts and techniques. Whether you're a beginner in the field or an experienced practitioner, this repository offers a wealth of educational materials, code examples, and project templates to support your learning journey.
 
-![Image showing diagram mapping a character to an ASCII and binary representation][(https://editor.analyticsvidhya.com/uploads/49583NLP-scaled-1-2048x771.jpeg)](https://i0.wp.com/semiengineering.com/wp-content/uploads/2018/01/MLvsDL.png?resize=733%2C405&ssl=1)
+![Image showing diagram mapping a character to an ASCII and binary representation](https://editor.analyticsvidhya.com/uploads/49583NLP-scaled-1-2048x771.jpeg)
 
 Key Features:
 
