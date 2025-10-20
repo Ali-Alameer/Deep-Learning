@@ -1,7 +1,7 @@
 # Deep-Learning
 This repository is designed specifically for AI MSc students! This comprehensive collection of resources aims to provide a solid foundation in deep learning concepts and techniques. Whether you're a beginner in the field or an experienced practitioner, this repository offers a wealth of educational materials, code examples, and project templates to support your learning journey.
 
-![Image showing diagram](https://www.evolve-consultants.co.uk/wp-content/uploads/2021/05/1I5O6NX_DIKYI1VBuLfX77Q.jpg)
+![Image showing diagram mapping a character to an ASCII and binary representation](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-020-70688-6/MediaObjects/41598_2020_70688_Fig5_HTML.png)
 
 ## Key Features:
 
